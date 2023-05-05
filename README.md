@@ -1,6 +1,6 @@
 # T-Shirt Customizer Web App
 
-![Design Your Vibe - Web App](/Design_Your_Vibe.png)
+![Design Your Vibe - Web App](/Design_Your_Vibe_Splash.png)
 
 ## Features
 This web app allows your to create your own T-Shirt design.
