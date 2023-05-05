@@ -1,5 +1,7 @@
 # T-Shirt Customizer Web App
 
+![Design Your Vibe - Web App](Design_Your_Vibe.png)
+
 ## Features
 This web app allows your to create your own T-Shirt design.
 Upload a logo, change it's colour or even have AI create you an image or texture for your shirt.
